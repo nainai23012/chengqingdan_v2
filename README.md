@@ -1,6 +1,7 @@
 # 诚清单-v2
 ## 主要编程语言采用Python（3.9），图形界面采用QT的开源版本，数据库采用MYSQL，数据可视化采用百度公司的echars。
 ### 诚清单是一款功能强大，专业实用的优秀工程造价软件，软件拥有安全稳定的文件应急备份措施，完备的报表导入、导出功能，高效智能的提取广联达软件（GTJ2018 GTJ2021）包含（钢筋工程量与土建工程量）并集成数据可视化分析功能，从清单、土建模型、钢筋模型三个维度分析数据，是您不可多得的好帮手。
+### 官网主页：http://www.chengqingdan.cn/
 ![image](https://user-images.githubusercontent.com/77518614/157996849-3c4055a4-a2f3-4ce3-aeb8-782b50be1465.png)
 ![image](https://user-images.githubusercontent.com/77518614/157996854-8f235e71-6a12-4bf7-992e-3e921647909f.png)
 ![image](https://user-images.githubusercontent.com/77518614/157996861-befdeb98-c1ec-45b3-97c0-4b211bd37828.png)
