@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/132.bmp</file>
+        <file>images/212.bmp</file>
+        <file>images/322.bmp</file>
+        <file>images/324.bmp</file>
+        <file>images/500.bmp</file>
+        <file>images/502.bmp</file>
+        <file>images/504.bmp</file>
+        <file>images/508.bmp</file>
+        <file>images/510.bmp</file>
+        <file>images/512.bmp</file>
+        <file>images/514.bmp</file>
+        <file>images/516.bmp</file>
+        <file>images/718.bmp</file>
+        <file>images/724.bmp</file>
+        <file>images/728.bmp</file>
+        <file>images/app.ico</file>
+        <file>images/lock.bmp</file>
+        <file>images/start_frame.png</file>
+        <file>images/timg2.jpg</file>
+        <file>images/UNIT.ICO</file>
+        <file>images/w.ico</file>
+        <file>images/w2.ico</file>
+        <file>images/w4.ico</file>
+        <file>images/保存工程.png</file>
+        <file>images/查找清单.png</file>
+        <file>images/打开工程.png</file>
+        <file>images/广联达量表.png</file>
+        <file>images/另存为.png</file>
+        <file>images/退出.png</file>
+        <file>images/新建工程.png</file>
+        <file>images/行插入.png</file>
+        <file>images/行复制.png</file>
+        <file>images/行删除.png</file>
+        <file>images/行增加.png</file>
+        <file>images/行粘贴.png</file>
+        <file>images/206.bmp</file>
+        <file>images/208.bmp</file>
+        <file>images/redo.png</file>
+        <file>images/undo.png</file>
+        <file>images/C1.ico</file>
+        <file>images/工程量表.png</file>
+        <file>images/ImportBuild.png</file>
+        <file>images/Login.png</file>
+        <file>images/unlock.png</file>
+        <file>images/lock.png</file>
+        <file>images/导出清单.png</file>
+        <file>images/导入清单（xc）.png</file>
+        <file>images/导入清单.png</file>
+        <file>images/bitbug_favicon (8).ico</file>
+    </qresource>
+</RCC>
