@@ -18,7 +18,7 @@ from PyQt5.QtCore import pyqtSlot, pyqtSignal, Qt, QItemSelectionModel, QStringL
 from PyQt5.QtGui import QFont, QColor, QPalette, QStandardItemModel, QStandardItem
 ##from PyQt5.QtSql import
 ##from PyQt5.QtMultimedia import
-##from PyQt5.QtMultimediaWidgets import
+##from PyQt5.QtMultimediaWidgets
 # 载入对话框
 from myDelegates import QmyFloatSpinDelegate, QmyComboBoxDelegate  # 定义代理模块
 from ui_QWDialogQuantities import Ui_Dialog
