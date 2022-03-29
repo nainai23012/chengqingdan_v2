@@ -4,7 +4,12 @@
 ### 官网主页：http://www.chengqingdan.cn/
 ### 视频帮助（Video help）
 特色功能简介：https://mp.weixin.qq.com/s/FDuZsPe78uBLooH3AIDinw
-
+计算书（稿）功能： https://mp.weixin.qq.com/s/_7XOIWgMEbksazhGvvuXuQ
+清单数据序列化的必要性（数据清洗）： https://mp.weixin.qq.com/s/iTYyW9-2iQZzT-_VEoDWfg
+措施费、分部分项清单导入、辅助填量： https://mp.weixin.qq.com/s/Obo-BnPZAWU3GO1XzkNaQg
+清单导入（模拟、国标清单）： https://mp.weixin.qq.com/s/hhhzCkjRi_TiPRg-AJUOdg
+分析系统： https://mp.weixin.qq.com/s/B1KqFc_oP4JFzCA-Kap-HQ
+分类表之墙身大样图： https://mp.weixin.qq.com/s/b9NTXJmwgHoE5ls1Q7wviQ
 
 ![image](https://user-images.githubusercontent.com/77518614/157996849-3c4055a4-a2f3-4ce3-aeb8-782b50be1465.png)
 ![image](https://user-images.githubusercontent.com/77518614/157996854-8f235e71-6a12-4bf7-992e-3e921647909f.png)
