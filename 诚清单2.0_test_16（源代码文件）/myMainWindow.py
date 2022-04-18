@@ -172,8 +172,8 @@ class Worker(QThread):
             return
         try:
             diskstr = str(diskstr)
-            conn = pymysql.connect(host='rm-bp114m07t2e13i30i9o.mysql.rds.aliyuncs.com',
-                                   port=3306, user='use_cqd000', password='Cqd123456', db='chengqingdan2021',
+            conn = pymysql.connect(host='1111',
+                                   port=3306, user='1111', password='1111', db='chengqingdan2021',
                                    charset='utf8')
             # status = conn.server_status
             cursor = conn.cursor()
